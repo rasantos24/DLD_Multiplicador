@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS_TB_isim_beh.exe" -prj "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS_TB_beh.prj" "work.FA_MULTISS_TB" "work.glbl" 

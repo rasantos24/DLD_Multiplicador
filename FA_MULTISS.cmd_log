@@ -1,0 +1,25 @@
+xst -intstyle ise -ifn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.xst" -ofn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 FA_MULTISS.ngc FA_MULTISS.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o FA_MULTISS_map.ncd FA_MULTISS.ngd FA_MULTISS.pcf 
+par -w -intstyle ise -ol high -t 1 FA_MULTISS_map.ncd FA_MULTISS.ncd FA_MULTISS.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FA_MULTISS.twx FA_MULTISS.ncd -o FA_MULTISS.twr FA_MULTISS.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.xst" -ofn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 FA_MULTISS.ngc FA_MULTISS.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o FA_MULTISS_map.ncd FA_MULTISS.ngd FA_MULTISS.pcf 
+par -w -intstyle ise -ol high -t 1 FA_MULTISS_map.ncd FA_MULTISS.ncd FA_MULTISS.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FA_MULTISS.twx FA_MULTISS.ncd -o FA_MULTISS.twr FA_MULTISS.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.xst" -ofn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 FA_MULTISS.ngc FA_MULTISS.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o FA_MULTISS_map.ncd FA_MULTISS.ngd FA_MULTISS.pcf 
+par -w -intstyle ise -ol high -t 1 FA_MULTISS_map.ncd FA_MULTISS.ncd FA_MULTISS.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FA_MULTISS.twx FA_MULTISS.ncd -o FA_MULTISS.twr FA_MULTISS.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.xst" -ofn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 FA_MULTISS.ngc FA_MULTISS.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o FA_MULTISS_map.ncd FA_MULTISS.ngd FA_MULTISS.pcf 
+par -w -intstyle ise -ol high -t 1 FA_MULTISS_map.ncd FA_MULTISS.ncd FA_MULTISS.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FA_MULTISS.twx FA_MULTISS.ncd -o FA_MULTISS.twr FA_MULTISS.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.xst" -ofn "C:/Users/Rafael/PROYECTO_FAMultiplicador/FA_MULTISS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 FA_MULTISS.ngc FA_MULTISS.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o FA_MULTISS_map.ncd FA_MULTISS.ngd FA_MULTISS.pcf 
+par -w -intstyle ise -ol high -t 1 FA_MULTISS_map.ncd FA_MULTISS.ncd FA_MULTISS.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FA_MULTISS.twx FA_MULTISS.ncd -o FA_MULTISS.twr FA_MULTISS.pcf 
